@@ -15,7 +15,7 @@ def mail():
     msg = MIMEMultipart()
      
     # setup the parameters of the message
-    password = "Leo12102010"
+    password = "**********"
     msg['From'] = "alexandre75.daniel@gmail.com"
     msg['To'] = "alexandre75.daniel@gmail.com"
     msg['Subject'] = "Intrusion"
